@@ -1,0 +1,96 @@
+{
+  "fps": 30,
+  "width": 60,
+  "height": 20,
+  "totalFrames": 6572,
+  "chunks": [
+    {
+      "file": "chunk_0001.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0002.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0003.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0004.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0005.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0006.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0007.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0008.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0009.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0010.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0011.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0012.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0013.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0014.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0015.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0016.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0017.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0018.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0019.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0020.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0021.json",
+      "count": 300
+    },
+    {
+      "file": "chunk_0022.json",
+      "count": 272
+    }
+  ]
+}
