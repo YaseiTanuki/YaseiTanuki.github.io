@@ -47,7 +47,7 @@ npm run build:static # Build and export static files
 
 ```
 git-gud/
-├── app/                    # Next.js App Router
+├── app/                   # Next.js App Router
 │   ├── api/               # API routes
 │   ├── globals.css        # Global styles
 │   ├── layout.tsx         # Root layout
